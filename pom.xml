@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>CloudenabledWebApp</finalName>
+    <finalName>CloudenabledWebApp1</finalName>
   </build>
 </project>
